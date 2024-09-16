@@ -1,12 +1,24 @@
+.hero { 
+    background-color: rgb(54, 165, 216);
+}
 
+.hero {
+    background-image: url(../img/logo.svg);
+    height: 60px;
+    background-repeat: no-repeat;
+}
 
-thead{
-    background-color: rgb(60, 202, 202);
-
+thead {
+    background-color: rgb(25, 139, 192);
+    height: 100px;
 }
 
 .casella-colorata{
     background-color:aquamarine;
+}
+
+h3 {
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .img1 {
@@ -23,6 +35,3 @@ thead{
     height: 200px;
 }
 
-h3 {
-    color: rgba(0, 0, 0, 0.6);
-}
