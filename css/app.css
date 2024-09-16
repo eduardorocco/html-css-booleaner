@@ -1,13 +1,28 @@
-.immagine1 {
+
+
+thead{
+    background-color: rgb(60, 202, 202);
+
+}
+
+.casella-colorata{
+    background-color:aquamarine;
+}
+
+.img1 {
         background-image: url(../img/monitor.jpg);
         background-repeat: no-repeat;
         color: #FFFFFF;
         height: 200px;
 }
 
-.immagine2 {
+.img2 {
     background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
     color: #FFFFFF;
     height: 200px;
+}
+
+h3 {
+    color: rgba(0, 0, 0, 0.6);
 }
