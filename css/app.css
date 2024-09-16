@@ -1,11 +1,15 @@
-.hero { 
-    background-color: rgb(54, 165, 216);
+.logo {
+    height: 30px;
 }
 
 .hero {
-    background-image: url(../img/logo.svg);
-    height: 60px;
-    background-repeat: no-repeat;
+    background-color: rgb(54, 165, 216);
+    height: 100px;
+}
+
+.hero {
+    background-image: url(../img/pattern.png);
+    background-size: contain;
 }
 
 thead {
