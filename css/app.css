@@ -1,0 +1,13 @@
+.immagine1 {
+        background-image: url(../img/monitor.jpg);
+        background-repeat: no-repeat;
+        color: #FFFFFF;
+        height: 200px;
+}
+
+.immagine2 {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    height: 200px;
+}
